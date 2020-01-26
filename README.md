@@ -5,4 +5,3 @@ Code Refactor homework
 -added comments for easier description of the code
 -updated tags 
 -updated alt tags for images
--attempted update to sizing through mediaquery
